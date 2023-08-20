@@ -1,0 +1,12 @@
+D:\Área de Trabalho\Faculdade\5º Período\AED\Atividade_01\Atividade 01\Atividade 01\bin\Debug\netcoreapp3.0\Atividade_01.exe
+D:\Área de Trabalho\Faculdade\5º Período\AED\Atividade_01\Atividade 01\Atividade 01\bin\Debug\netcoreapp3.0\Atividade_01.deps.json
+D:\Área de Trabalho\Faculdade\5º Período\AED\Atividade_01\Atividade 01\Atividade 01\bin\Debug\netcoreapp3.0\Atividade_01.runtimeconfig.json
+D:\Área de Trabalho\Faculdade\5º Período\AED\Atividade_01\Atividade 01\Atividade 01\bin\Debug\netcoreapp3.0\Atividade_01.runtimeconfig.dev.json
+D:\Área de Trabalho\Faculdade\5º Período\AED\Atividade_01\Atividade 01\Atividade 01\bin\Debug\netcoreapp3.0\Atividade_01.dll
+D:\Área de Trabalho\Faculdade\5º Período\AED\Atividade_01\Atividade 01\Atividade 01\bin\Debug\netcoreapp3.0\Atividade_01.pdb
+D:\Área de Trabalho\Faculdade\5º Período\AED\Atividade_01\Atividade 01\Atividade 01\obj\Debug\netcoreapp3.0\Atividade_01.csproj.CoreCompileInputs.cache
+D:\Área de Trabalho\Faculdade\5º Período\AED\Atividade_01\Atividade 01\Atividade 01\obj\Debug\netcoreapp3.0\Atividade_01.AssemblyInfoInputs.cache
+D:\Área de Trabalho\Faculdade\5º Período\AED\Atividade_01\Atividade 01\Atividade 01\obj\Debug\netcoreapp3.0\Atividade_01.AssemblyInfo.cs
+D:\Área de Trabalho\Faculdade\5º Período\AED\Atividade_01\Atividade 01\Atividade 01\obj\Debug\netcoreapp3.0\Atividade_01.dll
+D:\Área de Trabalho\Faculdade\5º Período\AED\Atividade_01\Atividade 01\Atividade 01\obj\Debug\netcoreapp3.0\Atividade_01.pdb
+D:\Área de Trabalho\Faculdade\5º Período\AED\Atividade_01\Atividade 01\Atividade 01\obj\Debug\netcoreapp3.0\Atividade_01.csproj.AssemblyReference.cache
